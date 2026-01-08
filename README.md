@@ -8,6 +8,7 @@ The application also includes an admin panel to manage products, orders, and use
 The project focuses on real-world e-commerce functionality, clean UI, and scalable backend architecture.
 
 ✨ Features
+
 👤 User Features
 
 User authentication (Sign up / Login / Logout)
