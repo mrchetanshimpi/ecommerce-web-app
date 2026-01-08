@@ -11,59 +11,59 @@ The project focuses on real-world e-commerce functionality, clean UI, and scalab
 
 👤 User Features
 
-User authentication (Sign up / Login / Logout)
+> User authentication (Sign up / Login / Logout)
 
-Browse products by category
+> Browse products by category
 
-Search and filter products
+> Search and filter products
 
-View product details
+> View product details
 
-Add / remove products from cart
+> Add / remove products from cart
 
-Place orders
+> Place orders
 
-Order history tracking
+> Order history tracking
 
-User profile management
+> User profile management
 
 🛠️ Admin Features
 
-Add, update, and delete products
+> Add, update, and delete products
 
-Manage product categories
+> Manage product categories
 
-View and manage user orders
+> View and manage user orders
 
-Update order status (Pending, Shipped, Delivered)
+> Update order status (Pending, Shipped, Delivered)
 
-User management
+> User management
 
 🧑‍💻 Tech Stack
 Frontend
 
-HTML5
+> HTML5
 
-CSS3
+> CSS3
 
-JavaScript
+> JavaScript
 
-React.js 
+> React.js 
 
-Tailwind CSS 
+> Tailwind CSS 
 
 Backend
 
-Node.js
+> Node.js
 
-Express.js
+> Express.js
 
 Database
 
-MongoDB
+> MongoDB
 
 Authentication
 
-JWT (JSON Web Token)
+> JWT (JSON Web Token)
 
-bcrypt for password hashing
+> bcrypt for password hashing
